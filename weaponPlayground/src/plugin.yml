@@ -1,0 +1,5 @@
+name: weaponPlayground
+author: PhilosophyWithJosh
+version: 2.0
+main: me.PhilosophyWithJosh.weaponPlayground.Main
+description: compilation of various messages related to weapon usage
