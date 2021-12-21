@@ -30,7 +30,7 @@ public class shieldListener implements Listener
 		Player p = (Player) b.getEntity();
 		if (b.getFinalDamage() == 0.0 & p.isBlocking())
 		{
-			Bukkit.broadcastMessage(utils.chat("&a" + p.getDisplayName() + "&7 is a lil bitch"));			
+			Bukkit.broadcastMessage(utils.chat("&a" + p.getDisplayName() + "&7 is using a shield"));			
 		}
 	}
 }
